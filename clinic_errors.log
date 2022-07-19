@@ -1,0 +1,33 @@
+[2022-07-1121:40:54] [ INFO ] [OdontologoController:31] Se ha creado el odontologo
+[2022-07-1200:48:27] [ ERROR] [GlobalException:17] Error: No existe un odontologo con el ID 58
+[2022-07-1201:07:45] [ INFO ] [TurnoController:66] Se muestra el listado de turnos
+[2022-07-1201:10:56] [ INFO ] [PacienteController:34] Se ha creado un nuevo paciente
+[2022-07-1201:11:02] [ INFO ] [PacienteController:66] Se muestra el listado de pacientes
+[2022-07-1201:11:14] [ INFO ] [OdontologoController:36] Se ha creado el odontologo
+[2022-07-1201:11:18] [ INFO ] [OdontologoController:68] Se muestra la lista de odontologos
+[2022-07-1201:12:28] [ INFO ] [PacienteController:34] Se ha creado un nuevo paciente
+[2022-07-1201:12:32] [ INFO ] [PacienteController:66] Se muestra el listado de pacientes
+[2022-07-1201:12:42] [ INFO ] [OdontologoController:36] Se ha creado el odontologo
+[2022-07-1201:12:51] [ INFO ] [OdontologoController:68] Se muestra la lista de odontologos
+[2022-07-1201:14:10] [ INFO ] [TurnoController:34] Se ha creado un nuevo turno
+[2022-07-1201:14:15] [ INFO ] [TurnoController:66] Se muestra el listado de turnos
+[2022-07-1201:16:03] [ INFO ] [TurnoController:66] Se muestra el listado de turnos
+[2022-07-1900:34:01] [ INFO ] [OdontologoController:36] Se ha creado el odontologo
+[2022-07-1900:34:06] [ INFO ] [OdontologoController:68] Se muestra la lista de odontologos
+[2022-07-1900:37:00] [ INFO ] [OdontologoController:36] Se ha creado el odontologo
+[2022-07-1900:37:09] [ INFO ] [OdontologoController:68] Se muestra la lista de odontologos
+[2022-07-1900:37:48] [ INFO ] [OdontologoController:68] Se muestra la lista de odontologos
+[2022-07-1900:38:30] [ INFO ] [OdontologoController:62] Se ha eliminado el odontologo con el ID: 1
+[2022-07-1900:38:34] [ ERROR] [GlobalException:17] Error: No existe un odontologo con el ID 2
+[2022-07-1900:42:31] [ INFO ] [PacienteController:66] Se muestra el listado de pacientes
+[2022-07-1900:42:39] [ INFO ] [PacienteController:34] Se ha creado un nuevo paciente
+[2022-07-1900:42:43] [ INFO ] [PacienteController:66] Se muestra el listado de pacientes
+[2022-07-1900:42:47] [ INFO ] [PacienteController:41] Se ha encontrado el paciente por ID: 1
+[2022-07-1900:47:38] [ INFO ] [PacienteController:66] Se muestra el listado de pacientes
+[2022-07-1900:47:42] [ INFO ] [PacienteController:34] Se ha creado un nuevo paciente
+[2022-07-1900:47:49] [ INFO ] [PacienteController:41] Se ha encontrado el paciente por ID: 1
+[2022-07-1900:48:01] [ INFO ] [OdontologoController:68] Se muestra la lista de odontologos
+[2022-07-1900:48:06] [ INFO ] [OdontologoController:36] Se ha creado el odontologo
+[2022-07-1900:48:09] [ INFO ] [OdontologoController:36] Se ha creado el odontologo
+[2022-07-1900:48:11] [ INFO ] [OdontologoController:36] Se ha creado el odontologo
+[2022-07-1900:48:15] [ INFO ] [OdontologoController:68] Se muestra la lista de odontologos
